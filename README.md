@@ -17,3 +17,5 @@ chapter 1 typed up.......... needs style formatting for a better read<br>
 chapter 2 typed up...........needs style formatting for a better read<br>
 
 chapter 3 typed up...........needs style formatting for a better read<br>
+
+Chapter 3 Alternative ending typed up........needs formatting
