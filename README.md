@@ -21,3 +21,5 @@ chapter 3 typed up...........needs style formatting for a better read<br>
 Chapter 3 Alternative ending typed up........needs formatting
 
 Body style set to 70% 
+
+I Noticed some changes where made while in the wrong branch I need to compare and edit again.
