@@ -21,3 +21,6 @@ chapter 3 typed up...........needs style formatting for a better read<br>
 Chapters body style width changed to 70%
 
 Made more corrections to the chapters
+
+Previous and Next page Hyperlinks added
+
