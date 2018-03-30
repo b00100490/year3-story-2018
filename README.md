@@ -24,3 +24,5 @@ Made more corrections to the chapters
 
 Previous and Next page Hyperlinks added
 
+allingment of hyuperlinks completed
+
